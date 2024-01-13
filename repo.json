@@ -2,5 +2,13 @@
   "META": {
     "repoName": "fly store",
     "repoIcon": "repo icon"
-  }
+  },
+  "apps": [
+    {
+      "name": "brawl stars",
+      "buildIdentifier": "com.supercell.brawlstars",
+      "dev": "supersell",
+      "logoURL": ""
+    }
+  ]
 }
